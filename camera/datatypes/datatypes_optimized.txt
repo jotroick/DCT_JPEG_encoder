@@ -1,0 +1,8 @@
+t_pi		7 2	SC_TRN	SC_WRAP		0
+t_accu      	14  12	SC_TRN	SC_WRAP		0
+t_pix		9  10	SC_TRN	SC_WRAP 	0
+t_coeffs	6  2	SC_TRN	SC_WRAP 	0
+t_block		12   13	SC_TRN	SC_WRAP 	0
+t_temp_block	10  11	SC_TRN	SC_WRAP 	 0
+t_blocki	8  9	SC_TRN	SC_WRAP 	0
+
